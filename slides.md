@@ -1,5 +1,5 @@
 
-### **Galaxy: Illuminating Plant Biology throught Isoform Analysis and Beyond**
+### **Galaxy: Illuminating plant biology throught isoform analysis and beyond**
 
 ---
 
@@ -72,7 +72,6 @@
 #### Isoform switching and functional analysis with IsoformSwitchAnalyzeR
 
 <img src="img/gene_expression.png" alt="drawing" width="700"/>
-<p style="font-size:14px;">The complete analysis can be found in this <a href="https://usegalaxy.eu/u/gallardoalba/h/genome-wide-splicing-history">Galaxy history</a>.</p>
 
 ---
 
