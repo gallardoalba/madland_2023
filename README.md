@@ -1,6 +1,6 @@
 ### MadLand 2023 annual meeting talk
 
-Talk title: Galaxy: Illuminating Plant Biology throught Isoform Analysis and Beyond
+Galaxy: Illuminating plant biology throught isoform analysis and beyond
 
 #### Abstract
 
