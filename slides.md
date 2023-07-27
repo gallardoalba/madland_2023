@@ -71,16 +71,8 @@
 
 #### Isoform switching and functional analysis with IsoformSwitchAnalyzeR
 
-<div class="r-stack">
-<span class="fragment fade-out" data-fragment-index="0">
-<img src="img/FBXO4.png" alt="drawing" width="700"/>
+<img src="img/gene_expression.png" alt="drawing" width="700"/>
 <p style="font-size:14px;">The complete analysis can be found in this <a href="https://usegalaxy.eu/u/gallardoalba/h/genome-wide-splicing-history">Galaxy history</a>.</p>
-</span>
-<span class="fragment" data-fragment-index="0">
-<img src="img/fbxo4_information.png" alt="drawing" width="700"/>
-<p style="font-size:14px;">The complete analysis can be found in this <a href="https://usegalaxy.eu/u/gallardoalba/h/genome-wide-splicing-history">Galaxy history</a>.</p>
-</span>
-</div>
 
 ---
 
