@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/simple.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                <section data-markdown="slides.md"
+                    data-separator="^^\r?\n---\r?\n$"
+                    data-separator-vertical="^\r?\n------\r?\n$"
+                    data-separator-notes="^Note:"
+                    data-charset="iso-8859-15"
+                </section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/menu/menu.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+			       hash: true,
+			       dependencies: [
+				         { src: 'plugin/mouse-pointer/mouse-pointer.js', async: true },
+                         { src: 'plugin/math-katex/math-katex.js', async: true }],
+			       // Learn about plugins: https://revealjs.com/plugins/
+			    plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ],
+			       slideNumber: true,
+			       slideNumber: 'c/t',
+			       //showNotes: true,
+			       //showNotes: "separate-page"
+			       controls: false,
+			       //controlsLayout: 'edges',
+			    transitionSpeed: 'slow',
+
+  			       menu: {
+			           titleSelector: 'h1',
+				   hideMissingTitles: true,
+				   width: 'third'
+			       }
+			});
+		</script>
+	</body>
+</html>
