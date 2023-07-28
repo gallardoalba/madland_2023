@@ -11,6 +11,26 @@
 
 ---
 
+<span class="menu-title" style="display: none">Galaxy platfom</span>
+
+<img src="img/galaxy_logo.png" alt="drawing" width="1200"/>
+
+<small>
+
+- **Open source platform** for accesible, reproducible, and transparent computational research
+- **Public computational infrastructure** that provides a free analyis evironment
+    - European server (usegalaxy.eu): over 9000 CPUs, 50 TB of RAM, 4 PB data storage
+- **Web-based graphical interface**
+
+- **Training Infrastructure as a Service** (TIaas)
+    - Private queue where only your training's job will run
+    - See how your students are progressing
+- **Galaxy Training Network** (GTN) provides training materials
+
+</small>
+
+---
+
 <span class="menu-title" style="display: none"> What do we mean by non-canonical ORFs?</span>
 
 #### What are non-canonical isoforms?
