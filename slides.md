@@ -1,6 +1,10 @@
 
 ### **Galaxy: Illuminating plant biology throught isoform analysis and beyond**
 
+Cristobal Gallardo Alba
+
+<small>MadLand 2023 Annual Meeting</small>
+
 ---
 
 ### Index of contents
